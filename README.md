@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonu-coder
 - 👀 I work as a data engineer at Top MNC, where I leverage Azure Cloud Technologies to build high performant Data Pipelines.
-- 🌱 I’m have exp. working on Flutter for app (Android)/web development, Dart/Javascript as Frontend & Node.js as backend lang.
+- 🌱 I’m having exp. working on Flutter for app (Android)/web development, Dart/Javascript as Frontend & Node.js as backend lang.
      I have hands-on exp. on GraphQL & Docker/Kubernetes
 - 👨‍💻 I'm an Azure Data Engineer Associate, Azure PowerBi Data Analyst, AWS Cloud certified
 - 📫 How to reach me sonu.parmar778@gmail.com
